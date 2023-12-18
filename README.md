@@ -1,3 +1,3 @@
 # pvbaghe
-This is my firct Git Repository
+This is my first Git Repository
 Author - Puru Baghe
